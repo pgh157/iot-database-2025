@@ -3,6 +3,7 @@
 from flask import Flask, render_template, request
 import pymysql
 
+
 # 변수초기화
 host = 'localhost'  # or '127.0.0.1' 
 port = 3306
